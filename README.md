@@ -278,7 +278,7 @@ This project demonstrates:
 
 ## Author
 
-JASHWANTH G P
+**JASHWANTH G P**
 
 ---
 
@@ -286,8 +286,8 @@ JASHWANTH G P
 
 ### GitHub Repository:
 
- https://github.com/Jashwanth-4028/Whatsappweb-Clone.git
+ [GitHub Repository](https://github.com/Jashwanth-4028/Whatsappweb-Clone.git)
 
 ### Demo Video:
 
-https://drive.google.com/file/d/1boqzOmyOSNbmb6vFub-ximjP1rolYkri/view?usp=sharing
+[Watch Demo Video](https://drive.google.com/file/d/1boqzOmyOSNbmb6vFub-ximjP1rolYkri/view?usp=sharing)
